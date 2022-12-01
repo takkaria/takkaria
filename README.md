@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Most of my work isn't on GitHub - but I work on an open source project as part of my paid work over on GitLab, [Macquette](https://gitlab.com/retrofitcoop/macquette).
